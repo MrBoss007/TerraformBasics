@@ -1,3 +1,1 @@
 [TerraformPipeline]
-aws_access_key_id = AKIAZI7FZ7VZMEWQEMOA
-aws_secret_access_key = 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
